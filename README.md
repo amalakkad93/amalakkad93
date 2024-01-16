@@ -15,7 +15,7 @@
 
 Feel free to explore my repositories. I'm open to questions, collaborations, or just a tech chat!
 
-Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com) • [LinkedIn](#) • [GitHub](#) • [Portfolio](#) • Upland, CA
+Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com) • [![LinkedIn](https://img.shields.io/badge/linkedin-JohnDorsey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-alakkad-a0b9371b3) • [Portfolio](https://amalakkad93.github.io/)
 
 ## Technical Skills
 ### Languages
@@ -64,9 +64,9 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com) • [LinkedIn](
 ![Client Management](https://img.shields.io/badge/-Client%20Management-007ACC?style=for-the-badge)
 ![Customer Service](https://img.shields.io/badge/-Customer%20Service-28A745?style=for-the-badge)
 
-Languages: JavaScript, Python, Flask, React, C++, HTML5, CSS3, POSTGRES, NodeJs, Express, Redux, SqlAlchemy, Sqlite, Docker, Git, Pytest, AWS, GCP, Verilog, Assembly
+## **Github Stats**
 
-Tools & Technologies: Adobe InDesign, Data Analysis, Client Management, Customer Service
+[![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalakkad93&show_icons=true)](https://github.com/amalakkad93)
 
 ## Projects
 
@@ -104,8 +104,10 @@ Tools & Technologies: Adobe InDesign, Data Analysis, Client Management, Customer
 ## Motto
 "Embracing innovation and challenges in technology to build solutions that leave a lasting impact."
 
-## Let's Connect!
+## **Let's Connect!**
 Feel free to reach out for collaborations, questions, or discussions about technology and software development.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-AnasAlakkad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-alakkad-a0b9371b3)
 
 <!--
 **amalakkad93/amalakkad93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
