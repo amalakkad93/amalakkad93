@@ -1,4 +1,5 @@
-# Hi, I'm Anas Alakkad ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hi, I'm Anas Alakkad 
+![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Innovative+Software+Engineer;Creating+Solutions+That+Matter;Passionate+about+Technology+and+Innovation;Turning+Challenges+into+Opportunities;Building+Efficient+and+Effective+Software">
