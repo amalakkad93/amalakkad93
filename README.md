@@ -18,6 +18,52 @@ Feel free to explore my repositories. I'm open to questions, collaborations, or 
 Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com) • [LinkedIn](#) • [GitHub](#) • [Portfolio](#) • Upland, CA
 
 ## Technical Skills
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-4D4D4D?style=for-the-badge&logo=verilog&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-007ACC?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+
+### Front-End Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Back-End Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Database & ORM
+![Databases](https://img.shields.io/badge/-Databases-006400?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-orange?style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### State Management
+![Redux.js](https://img.shields.io/badge/-Redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### CI/CD & Testing
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Tools & Technologies
+![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-FFD700?style=for-the-badge)
+![Client Management](https://img.shields.io/badge/-Client%20Management-007ACC?style=for-the-badge)
+![Customer Service](https://img.shields.io/badge/-Customer%20Service-28A745?style=for-the-badge)
+
 Languages: JavaScript, Python, Flask, React, C++, HTML5, CSS3, POSTGRES, NodeJs, Express, Redux, SqlAlchemy, Sqlite, Docker, Git, Pytest, AWS, GCP, Verilog, Assembly
 
 Tools & Technologies: Adobe InDesign, Data Analysis, Client Management, Customer Service
@@ -25,6 +71,7 @@ Tools & Technologies: Adobe InDesign, Data Analysis, Client Management, Customer
 ## Projects
 
 ### Starco
+![Starco](https://flask3.s3.amazonaws.com/starco.png)
 - [GitHub](#) | [Live Demo](#)
 - Implemented user authentication using BCrypt, React Auth Routes, and Google OAuth.
 - Developed a dynamic shopping cart with React, Redux, and Flask.
@@ -33,12 +80,12 @@ Tools & Technologies: Adobe InDesign, Data Analysis, Client Management, Customer
 - Enhanced login security and deployment efficiency with Google OAuth and Docker.
 
 ### PixelPond
+![PixelPond](https://flask3.s3.amazonaws.com/pixelPond.png)
 - [GitHub](#) | [Live Demo](#)
 - Redesigned album management with React and Flask, creating an interactive UI.
 - Added real-time commenting features for dynamic user interactions.
 - Developed a user-centric favorites feature using React and Flask.
 - Enhanced search capabilities with React, Redux, and Flask.
-
 ### MarketPulse
 - Collaborated on a stock analysis tool using Python, NLTK, Google Colab, and Alpaca API.
 
