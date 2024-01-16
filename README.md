@@ -13,9 +13,11 @@
 
 - 🛠️ Bridging the gap between academic theory and practical application, I create solutions that are innovative and technically sound. Outside work, I delve into microcontroller-based hobby projects, exploring the intricate relationship between software and hardware.
 
-Feel free to explore my repositories. I'm open to questions, collaborations, or just a tech chat!
+  Feel free to explore my repositories. I'm open to questions, collaborations, or just a tech chat!
 
-Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com) • [![LinkedIn](https://img.shields.io/badge/linkedin-JohnDorsey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-alakkad-a0b9371b3) • [Portfolio](https://amalakkad93.github.io/)
+Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-JohnDorsey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-alakkad-a0b9371b3) • [Portfolio](https://amalakkad93.github.io/)
+[Resume](https://docs.google.com/document/d/1bwqroRX0Q8CV4SeYyVURRR3U9-rC1rSi5q8qotLC8UY/edit?usp=sharing)
 
 ## Technical Skills
 ### Languages
