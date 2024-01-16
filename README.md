@@ -1,22 +1,24 @@
-<h1 align="center"><b> Hi, I'm Anas Alakkad</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Anas Alakkad</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Innovative+Software+Engineer;Creating+Solutions+That+Matter;Passionate+about+Technology+and+Innovation;Turning+Challenges+into+Opportunities;Building+Efficient+and+Effective+Software">
 </p>
 
 ## About Me
-![Right Side](https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif)
+<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
 
-- 🌐 As a Software Engineer specializing in Full-Stack Development, I am dedicated to crafting efficient and comprehensive web and software solutions. My projects showcase a harmonious blend of complex backend systems and intuitive front-end designs.
+🌐 As a Software Engineer specializing in Full-Stack Development, I am dedicated to crafting efficient and comprehensive web and software solutions. My projects showcase a harmonious blend of complex backend systems and intuitive front-end designs.
 
-- 💻 My educational foundation in Computer Engineering, paired with a professional focus on Software Development, provides me with a unique perspective on system capabilities and limitations. This synergy of knowledge is reflected in my ability to optimize software applications.
+💻 My educational foundation in Computer Engineering, paired with a professional focus on Software Development, provides me with a unique perspective on system capabilities and limitations. This synergy of knowledge is reflected in my ability to optimize software applications.
 
-- 🛠️ Bridging the gap between academic theory and practical application, I create solutions that are innovative and technically sound. Outside work, I delve into microcontroller-based hobby projects, exploring the intricate relationship between software and hardware.
+🛠️ Bridging the gap between academic theory and practical application, I create solutions that are innovative and technically sound. Outside work, I delve into microcontroller-based hobby projects, exploring the intricate relationship between software and hardware.
 
-  Feel free to explore my repositories. I'm open to questions, collaborations, or just a tech chat!
+Feel free to explore my repositories. I'm open to questions, collaborations, or just a tech chat!
 
-Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-JohnDorsey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-alakkad-a0b9371b3) • [Portfolio](https://amalakkad93.github.io/)
+## Connect with Me
+Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Alakkad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-alakkad-a0b9371b3)  
+[Portfolio](https://amalakkad93.github.io/)  
 [Resume](https://docs.google.com/document/d/1bwqroRX0Q8CV4SeYyVURRR3U9-rC1rSi5q8qotLC8UY/edit?usp=sharing)
 
 ## Technical Skills
