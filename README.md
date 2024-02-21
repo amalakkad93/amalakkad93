@@ -68,10 +68,6 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
 ![Client Management](https://img.shields.io/badge/-Client%20Management-007ACC?style=for-the-badge)
 ![Customer Service](https://img.shields.io/badge/-Customer%20Service-28A745?style=for-the-badge)
 
-## **Github Stats**
-
-[![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalakkad93&show_icons=true)](https://github.com/amalakkad93)
-
 ## Projects
 
 ### Starco
