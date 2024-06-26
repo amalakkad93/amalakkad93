@@ -21,7 +21,7 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
 [Portfolio](https://amalakkad93.github.io/)  
 [Resume](https://docs.google.com/document/d/1-Hz_kvbiHsfHR1C5R5UHdCfa1F_ZvKFGvEqM3dNK7VI/edit?usp=sharing)
 <!-- [Resume](https://docs.google.com/document/d/1bwqroRX0Q8CV4SeYyVURRR3U9-rC1rSi5q8qotLC8UY/edit?usp=sharing)-->
-
+<!-- 
 <h2 align="center"> Github Stats 🖥⌨🖱</h2>
 
 <div align="center" display="flex" flex-wrap="row-wrap">
@@ -29,10 +29,19 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
       <img src="http://github-readme-streak-stats.herokuapp.com?user=amalakkad93&&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 1"/>
     </p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&langs_count=20&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 3 - May need a refresh to see properly"/>
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amalakkad93&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
 <!--       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalakkad93&theme=transparent" alt="amalakkad93's GitHub Contribution 4"/> -->
     
+</div>
+-->
+<h2 align="center"> Github Stats 🖥⌨🖱</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap;">
+    <p style="display: flex; flex-direction: column;">    
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=amalakkad93&&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 1"/>
+    </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&langs_count=20&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 3 - May need a refresh to see properly"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=amalakkad93&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e" alt="Your GitHub stats"/>
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalakkad93&theme=transparent" alt="amalakkad93's GitHub Contribution 4"/> -->
 </div>
 
 ## Technical Skills
