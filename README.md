@@ -23,11 +23,12 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
 <!-- [Resume](https://docs.google.com/document/d/1bwqroRX0Q8CV4SeYyVURRR3U9-rC1rSi5q8qotLC8UY/edit?usp=sharing)-->
 
 ## **Github Stats**
+
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <p style="display: flex; flex-direction: column;">    
       <img src="http://github-readme-streak-stats.herokuapp.com?user=amalakkad93&&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 1"/>
     </p>
-    <img src="https://github-readme-stats.vercel.app/api?username=amalakkad93&hide_border=true&border_radius=6&show_icons=true&theme=shadow_green&bg_color=00000000&title_color=7f7f7f&icon_color=22c55e&text_color=7f7f7f&custom_title=GitHub+Stats&include_all_commits=true&count_private=true" alt="amalakkad93's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=amalakkad93&hide_border=true&border_radius=6&show_icons=true&theme=shadow_green&bg_color=00000000&title_color=22c55e&icon_color=22c55e&text_color=7f7f7f" alt="amalakkad93's GitHub stats"/>
     <p style="display: flex; flex-direction: column;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&hide_border=true&border_radius=6&langs_count=20&layout=pie&theme=shadow_green&bg_color=00000000&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 3 - May need a refresh to see properly"/>
     </p>
