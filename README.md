@@ -27,7 +27,7 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
     <p style="display: flex; flex-direction: column;">    
       <img src="http://github-readme-streak-stats.herokuapp.com?user=amalakkad93&&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 1"/>
     </p>
-     <img src="https://github-readme-stats.vercel.app/api?username=amalakkad93&hide_border=true&show_icons=true&theme=shadow_green&bg_color=00000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" alt="amalakkad93's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=amalakkad93&hide_border=true&border_radius=6&show_icons=true&theme=shadow_green&bg_color=00000000&title_color=7f7f7f&icon_color=7f7f7f&text_color=7f7f7f" alt="amalakkad93's GitHub stats"/>
     <p style="display: flex; flex-direction: column;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&langs_count=20&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 3 - May need a refresh to see properly"/>
     </p>
