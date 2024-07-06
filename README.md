@@ -35,8 +35,7 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
 -->
 
 
-## **Github Stats** 🖥⌨🖱
-
+## **Github Stats**
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <p style="display: flex; flex-direction: column;">    
       <img src="http://github-readme-streak-stats.herokuapp.com?user=amalakkad93&&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 1"/>
