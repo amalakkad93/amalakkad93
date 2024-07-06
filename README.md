@@ -31,7 +31,7 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
     <p style="display: flex; flex-direction: column;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&langs_count=20&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 3 - May need a refresh to see properly"/>
     </p>
-    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalakkad93&theme=transparent" alt="amalakkad93's GitHub Contribution 4"/> -->
+<!--     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalakkad93&theme=transparent" alt="amalakkad93's GitHub Contribution 4"/> -->
 </div>
 
 
