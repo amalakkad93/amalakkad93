@@ -35,9 +35,7 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
 -->
 
 
-## **Github Stats**
-
-<h2 align="center">Github Stats 🖥⌨🖱</h2>
+## **Github Stats** 🖥⌨🖱
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
     <p style="display: flex; flex-direction: column;">    
