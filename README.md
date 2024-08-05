@@ -18,7 +18,7 @@ Feel free to explore my repositories. I'm open to questions, collaborations, or 
 ## Connect with Me
 Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anas%20Alakkad-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-alakkad-a0b9371b3)  
-[Portfolio](https://amalakkad93.github.io/)  
+[Portfolio]([https://amalakkad93.github.io/](https://amalakkad93.github.io/Anas-Alakkad-portfolio/))  
 [Resume](https://docs.google.com/document/d/1-Hz_kvbiHsfHR1C5R5UHdCfa1F_ZvKFGvEqM3dNK7VI/edit?usp=sharing)
 <!-- [Resume](https://docs.google.com/document/d/1bwqroRX0Q8CV4SeYyVURRR3U9-rC1rSi5q8qotLC8UY/edit?usp=sharing)-->
 
