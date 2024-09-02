@@ -35,6 +35,17 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
     <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amalakkad93&theme=transparent" alt="amalakkad93's GitHub Contribution 4"/> -->
 </div>
 
+## **Github Stats**
+
+<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <p style="display: flex; flex-direction: column;">    
+      <img src="https://raw.githubusercontent.com/amalakkad93/github-stats/main/stats.svg" alt="GitHub Stats"/>
+    </p>
+    <p style="display: flex; flex-direction: column;">
+      <img src="https://raw.githubusercontent.com/amalakkad93/github-stats/main/languages.svg" alt="Top Languages"/>
+    </p>
+</div>
+
 ## Technical Skills
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
