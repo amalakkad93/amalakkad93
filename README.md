@@ -27,10 +27,9 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
 <p align="center" style="display: flex; flex-direction: column; align-items: center;">
   
   <img src="http://github-readme-streak-stats.herokuapp.com?user=amalakkad93&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution Streak"/>
-
+ <br/>
    <img src="https://github-readme-stats.vercel.app/api?username=amalakkad93&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_green&cache_seconds=86400" alt="GitHub Stats"/>
-  
-  <!-- GitHub Top Languages -->
+   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&layout=compact&theme=shadow_green" alt="Top Languages"/>
   
 </p>
