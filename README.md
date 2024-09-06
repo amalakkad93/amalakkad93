@@ -30,7 +30,7 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
   
   <br/>
 
-  [![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amalakkad93&show_icons=true&bg_color=ffffff00,008000&text_color=000000&icon_color=000000&title_color=000000)](https://github.com/amalakkad93)
+   <img src="https://github-readme-stats.vercel.app/api?username=amalakkad93&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_green&cache_seconds=86400" alt="GitHub Stats"/>
 
 
 
