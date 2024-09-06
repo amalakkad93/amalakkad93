@@ -31,7 +31,7 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
    <img src="https://github-readme-stats.vercel.app/api?username=amalakkad93&show_icons=true&theme=shadow_green" alt="GitHub Stats"/>
    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&langs_count=20&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f" alt="amalakkad93's GitHub Contribution 3 - May need a refresh to see properly"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&layout=compact&theme=shadow_green" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalakkad93&layout=compact&theme=shadow_green" alt="Top Languages"/>-->
   
 </p>
 
