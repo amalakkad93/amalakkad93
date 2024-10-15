@@ -58,9 +58,11 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
 
 ### Database & ORM
 ![Databases](https://img.shields.io/badge/-Databases-006400?style=for-the-badge)
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-orange?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 
 ### State Management
 ![Redux.js](https://img.shields.io/badge/-Redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white)
