@@ -85,6 +85,13 @@ Email: [amalakkad93@outlook.com](mailto:amalakkad93@outlook.com)
 ![Client Management](https://img.shields.io/badge/-Client%20Management-007ACC?style=for-the-badge)
 ![Customer Service](https://img.shields.io/badge/-Customer%20Service-28A745?style=for-the-badge)
 
+### Additional 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 ## Projects
 
 ### Starco
